@@ -1,0 +1,13 @@
+body {                        
+background-color:aquamarine;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+H1 { 
+color:blueviolet;
+}
+p{
+    font-size: 18px;
+    color:brown;
+}
